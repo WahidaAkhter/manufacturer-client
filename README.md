@@ -1,8 +1,9 @@
+# live site link: 
+https://warbitor.web.app/
+
 # server-side repo link: 
 https://github.com/WahidaAkhter/manufacturer-server
 
 # client-side repo link :
-https://github.com/programming-hero-web-course1/manufacturer-website-client-side-WahidaAkhter
+https://github.com/WahidaAkhter/manufacturer-client/tree/main
 
-# live site link: 
-https://warbitor.web.app/
